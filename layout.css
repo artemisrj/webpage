@@ -1,0 +1,127 @@
+/*本模板是由标准之路(www.aa25.cn)的×××制作完成*/
+/*本人水平有限，使用自愿，不对因使用此模板造成的任何后果负任何责任*/
+/*如果您想转载此资源，请保留“<a href="http://www.aa25.cn">标准之路www.aa25.cn</a>”的链接及版权标识*/
+/*如有更好的建议或意见，请到www.aa25.cn留言，本人尽力解决*/
+/*2008-8-28*/
+body {
+	font-family:Verdana;
+	font-size:14px;
+	margin:0;
+	background-image: url(image/bg.jpg);
+	background-position: center;
+	/*background-image: url(image/bodypage.jpg);*/
+	background-repeat: no-repeat;
+	height: 300px;
+	width: 300px;
+}
+
+#container {
+	width:1110px;
+	margin-top:0;
+	margin-right:auto;
+	margin-bottom: 0;
+	margin-left: auto;
+	background-image: url(image/bodypage.jpg);
+}
+#header { height:164px;  margin-bottom:5px;}
+#menu {
+	height:50px;
+	margin-bottom:5px;
+	background-color: #0F0;
+}
+#mainContent1 {
+	height:300px;
+	margin-bottom:5px;
+}
+#footer { height:60px; background:#6cf;}
+#inform{
+	height: 260px;
+	width: 700px;
+	margin-right:18px;
+	float:right;
+	margin-top:25px;
+	clear: none;
+	top: 33px;
+}
+#show{
+	height: 275px;
+	width: 365px;
+	clear: none;
+	float: left;
+	position: relative;
+	margin-left:24px;
+	margin-right:0px;
+	background-image: url(image/show.jpg);
+	margin-top: 12px;
+}
+
+#mainContent2 {
+	height:250px;
+	margin-bottom:5px;
+}
+
+#enter{
+	height: 120px;
+	width: 175px;
+	top: 222px;
+	margin-left: 237px;
+	margin-top: 58px;
+	clear: none;
+	float: left;
+}
+
+#password{
+	margin-top: 16px;
+}
+
+#submit{
+	margin-top: 13px;
+	margin-left: 70px;
+	background-color: #999;
+	height: 25px;
+	width: 50px;
+}
+#inform1{
+	height: 200px;
+	width: 340px;
+	clear: none;
+	float: left;
+	position: relative;
+}
+
+#inform2{
+	height: 200px;
+	width: 340px;
+	clear: none;
+	float: right;
+}
+
+#news{
+	clear: none;
+	float: left;
+	width: 485px;
+	
+}
+
+#moreinform{
+	margin-left: 270px;
+}
+#morenews{
+	margin-left: 270px;
+}
+
+#links{
+	clear: none;
+	float: right;
+	height: 99px;
+	width: 99px;
+}
+
+
+a.topic{
+	font-family:Verdana, Geneva, sans-serif;
+	color:rgb(255,255,255);
+	font-size:20px;
+	right: 22px;
+	font-weight: bold;
+}
